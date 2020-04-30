@@ -10,7 +10,7 @@
     "@sailshq/socket.io-redis": "^5.2.0",
     "bcrypt": "^4.0.0",
     "grunt": "1.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "read-excel-file": "^4.0.5",
     "sails": "^1.2.3",
